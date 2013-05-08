@@ -9,6 +9,7 @@ public class Sentence {
 	public StringBuffer buf;
 	public static String VP = "VP";
 	public static String NP = "NP";
+	FileWriter flog;
 	//public static VPrules VPinst = new VPrules();
 	
 	
@@ -49,7 +50,7 @@ public class Sentence {
 					//System.out.println("Here is a VP");
 					VPrules VPruleinst = new VPrules(number, stns.substring(i, right));
 					VPruleinst.VPrulesfunc();
-					substring = VPruleinst.str;
+					substring = VPruleinst.stns.stns;
 					break;
 				default:
 					;
@@ -201,5 +202,15 @@ public class Sentence {
 		return new int[]{space + 1, right};		
 	}
 	
+	public void swap(int a, int b) throws IOException {
+		int [] range1 = childrange(0, a);
+		int [] range2 = childrange(0, b);
+		String substring1 = stns.substring(range1[0],range1[1]+1);
+		String substring2 = stns.substring(range2[0],range2[1]+1);
+		flog = new FileWriter("change.log", true);
+		flog.write("Swap:\n" + stns.substring(range1[0], range1[1]+1) + "\nAnd:\n" + stns.substring(range2[0], range2[1]+1) + "\n\n");
+		flog.close();
+		stns = stns.substring(0, range1[0]) + substring2 + stns.substring(range1[1], range2[0]) + substring1 + stns.substring(range2[1]);		
+	}
 	
 }
