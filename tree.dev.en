@@ -1,0 +1,629 @@
+(ROOT
+  (S
+    (NP (CD 101) (. .))
+    (VP (VBZ Encourages)
+      (NP (DT the)
+        (ADJP (JJ competent)
+          (NP
+            (NP (JJ international) (NNS organizations))
+            (, ,)
+            (NP (DT the) (NNP United) (NNPS Nations) (NNP Development) (NNP Programme))
+            (, ,)
+            (NP (DT the) (NNP World) (NNP Bank))
+            (CC and)
+            (NP (JJ other) (NN funding))))
+        (NNS agencies))
+      (S
+        (VP
+          (VP (TO to)
+            (VP (VB consider)
+              (S
+                (VP (VBG expanding)
+                  (NP (PRP$ their) (NNS programs))
+                  (PP (IN within)
+                    (NP
+                      (NP (PRP$ their) (JJ respective) (NNS fields))
+                      (PP (IN of)
+                        (NP
+                          (NP (NN competence))
+                          (PP (IN for)
+                            (NP (NN assistance)))))))
+                  (PP (TO to)
+                    (NP (VBG developing) (NNS countries)))))))
+          (CC and)
+          (VP (TO to)
+            (VP (VB coordinate)
+              (NP (PRP$ their) (NNS efforts))))))
+      (, ,)
+      (PP (VBG including)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN allocation)
+              (CC and)
+              (NN application))
+            (PP (IN of)
+              (NP (JJ Global) (NNP Environment) (NNP Facility) (NN funding)))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (S
+      (NP (CD 104) (. .))
+      (VP (VBZ Takes)
+        (NP
+          (NP (NN note))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN report))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NNP Secretary-General))
+                  (VP (VBG relating)
+                    (PP (TO to)
+                      (NP
+                        (NP (DT the)
+                          (ADJP (JJ conservation)
+                            (CC and)
+                            (JJ sustainable))
+                          (NN use))
+                        (PP (IN of)
+                          (NP (JJ marine) (JJ biological) (NN diversity)))
+                        (PP (IN beyond)
+                          (NP
+                            (NP (NNS areas))
+                            (PP (IN of)
+                              (NP (JJ national) (NN jurisdiction)))))
+                        (, ,)
+                        (UCP
+                          (ADJP (JJ prepared))
+                          (CC and)
+                          (VP (VBN released)
+                            (PP (IN in)
+                              (NP (NN response)))
+                            (PP (TO to)
+                              (NP
+                                (NP (DT the) (NN request))
+                                (PP (IN in)
+                                  (NP (NN paragraph) (CD 92)))))))
+                        (PP (IN of)
+                          (NP (NN resolution) (CD 61\/222)))))))))))))
+    (: ;)
+    (S
+      (NP (NNP A\/62\/66) (NNP \/))
+      (VP (VB Add)
+        (NP (CD .2))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP 106) (. .) (NNPS Encourages) (NNP States))
+    (VP (TO to)
+      (VP (VB include)
+        (NP
+          (NP (JJ relevant) (NNS experts))
+          (PP (IN in)
+            (NP (PRP$ their) (NNS delegations))))
+        (S
+          (VP (VBG attending)
+            (NP
+              (NP (DT the) (NN meeting))
+              (PP (IN of)
+                (NP (DT the)
+                  (NX (NNP Ad) (NNP Hoc)))))
+            (FRAG
+              (NP (JJ Open-ended) (NNP Informal) (NNP Working) (NNP Group)))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (CD 107) (. .))
+    (VP (VBZ Recognizes)
+      (NP
+        (NP (DT the) (NN importance))
+        (PP (IN of)
+          (S
+            (VP (VBG making)
+              (NP
+                (NP (DT the) (NNS outcomes))
+                (PP (IN of)
+                  (NP (DT the)
+                    (NX (NNP Ad) (NNP Hoc)))))
+              (FRAG
+                (NP
+                  (NP (NNP Open-ended) (NNP Informal) (NNP Working) (NNP Group))
+                  (ADJP (RB widely) (JJ available)))))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (CD 110) (. .))
+    (VP (VBD Calls)
+      (PP (IN upon)
+        (NP
+          (NP (NNPS States))
+          (CC and)
+          (NP (JJ international) (NNS organizations))))
+      (S
+        (VP (TO to)
+          (VP
+            (ADVP (RB urgently))
+            (VB take)
+            (NP (JJ further) (NN action)
+              (S
+                (VP (TO to)
+                  (VP (VB address) (, ,)
+                    (PP (IN in)
+                      (NP (NN accordance)))
+                    (PP (IN with)
+                      (NP
+                        (NP (JJ international) (NN law))
+                        (, ,)
+                        (NP
+                          (NP (JJ destructive) (NNS practices))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (VBP have)
+                                (NP
+                                  (NP (JJ adverse) (NNS impacts))
+                                  (PP (IN on)
+                                    (NP (JJ marine) (NN biodiversity)
+                                      (CC and)
+                                      (NNS ecosystems)))
+                                  (, ,)
+                                  (PP (VBG including)
+                                    (NP
+                                      (NP (NNS seamounts))
+                                      (, ,)
+                                      (NP (JJ hydrothermal) (NNS vents))
+                                      (CC and)
+                                      (NP (JJ cold) (NN water) (NNS corals)))))))))))))))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (CD 115) (. .))
+    (ADVP (RB Also))
+    (VP (VBZ notes)
+      (S
+        (NP
+          (NP (DT the) (NNP Millennium) (NNP Ecosystem) (NNP Assessment) (NN synthesis) (NNS reports))
+          (CC and)
+          (NP (DT the) (JJ urgent) (NN need)))
+        (VP (TO to)
+          (VP (VB protect)
+            (NP
+              (NP (DT the) (JJ marine) (NN biodiversity))
+              (VP (VBN expressed)
+                (ADVP (RB therein))))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (NNP 118) (. .) (NNPS Encourages) (NNP States))
+    (VP (TO to)
+      (VP (VB cooperate) (, ,)
+        (UCP
+          (ADVP (RB directly))
+          (CC or)
+          (PP (IN through)
+            (NP (JJ competent) (JJ international) (NNS bodies))))
+        (, ,)
+        (PP (IN in)
+          (S
+            (VP (VBG exchanging)
+              (NP (NN information))
+              (PP
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN event))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNS accidents))
+                        (PP (VBG involving)
+                          (NP
+                            (NP (NNS vessels))
+                            (PP (IN on)
+                              (NP (NN coral) (NNS reefs)))))))))
+                (CC and)
+                (PP (IN in)
+                  (S
+                    (VP (VBG promoting)
+                      (NP
+                        (NP (DT the) (NN development))
+                        (PP (IN of)
+                          (NP
+                            (NP
+                              (NP (JJ economic) (NN assessment) (NNS techniques))
+                              (PP (IN for)
+                                (NP (DT both) (NN restoration))))
+                            (CC and)
+                            (NP
+                              (NP (JJ non-use) (NNS values))
+                              (PP (IN of)
+                                (NP (NN coral) (NN reef) (NNS systems))))))))))))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (CD 119) (. .))
+    (VP (VBZ Emphasizes)
+      (NP (DT the) (NN need))
+      (PP (TO to)
+        (NP
+          (NP
+            (ADJP (JJ mainstream) (JJ sustainable))
+            (JJ coral) (NN reef) (NN management))
+          (CC and)
+          (NP
+            (NP (VBN integrated) (JJ watershed) (NN management))
+            (PP
+              (PP (IN into)
+                (NP (JJ national) (NN development) (NNS strategies)))
+              (, ,)
+              (CONJP (RB as) (RB well) (IN as))
+              (PP (IN into)
+                (NP
+                  (NP
+                    (NP (DT the) (NNS activities))
+                    (PP (IN of)
+                      (NP (JJ relevant) (NNP United) (NNPS Nations) (NNS agencies))))
+                  (CC and)
+                  (NP
+                    (NP (NNS programs))
+                    (, ,)
+                    (NP (JJ international) (JJ financial) (NNS institutions))
+                    (CC and)
+                    (NP (DT the) (NN donor) (NN community))))))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (CD 122) (. .))
+    (VP
+      (VP (VBZ Notes)
+        (NP
+          (NP (DT the) (NN contribution))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NNP Census))
+              (PP (IN of)
+                (NP (NNP Marine) (NNP Life))))))
+        (PP (TO to)
+          (NP (JJ marine) (JJ biodiversity) (NN research))))
+      (, ,)
+      (CC and)
+      (VP (VBZ encourages)
+        (NP (NN participation))
+        (PP (IN in)
+          (NP (DT the) (NN initiative)))))
+    (: ;)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Regular) (NN process))
+    (PP (IN for)
+      (NP
+        (NP (JJ global) (NN reporting)
+          (CC and)
+          (NN assessment))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN state))
+            (PP (IN of)
+              (NP (DT the) (JJ marine) (NN environment)))))
+        (, ,)
+        (PP (VBG including)
+          (NP (JJ socio-economic) (NNS aspects)))))))
+
+(ROOT
+  (S
+    (NP (CD 126) (. .))
+    (VP (VBZ Recalls)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNP Ad) (NNP Hoc) (NNP Steering) (NNP Group))
+          (VP (VBD was)
+            (VP (VBN established)
+              (PP (IN by)
+                (NP (NN resolution) (CD 60\/30))))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (CD 129) (. .))
+    (VP (VBZ Welcomes)
+      (PP (IN with)
+        (NP
+          (NP
+            (NP (NN appreciation))
+            (NP
+              (NP (DT the) (NN support))
+              (PP (IN of)
+                (NP (DT the) (NNP United) (NNPS Nations) (NNP Environment) (NNP Programme)))))
+          (CC and)
+          (NP
+            (NP (DT the) (NNP Intergovernmental) (NNP Oceanographic) (NNP Commission))
+            (PP (IN for)
+              (NP
+                (NP (DT the) (`` ``) (NN assessment))
+                (PP (IN of)
+                  (NP (NNS assessments))))))))
+      ('' '')
+      (PP (IN in)
+        (S
+          (VP (VBG providing)
+            (NP (JJ secretariat) (NNS services))
+            (PP (TO to)
+              (NP (DT the)
+                (NX (NNP Ad) (NNP Hoc))))
+            (NP
+              (NP (NNP Steering) (NNP Group))
+              (CC and)
+              (NP (DT the) (NNP Group))
+              (PP (IN of)
+                (NP (NNS Experts))))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (CD 130) (. .))
+    (VP (VBZ Invites)
+      (S
+        (NP
+          (NP (NNP Member) (NNPS States))
+          (, ,)
+          (NP (DT the) (NNP Global) (NNP Environment) (NNP Facility))
+          (CC and)
+          (NP (JJ other) (JJ interested) (NNS parties)))
+        (VP (TO to)
+          (VP (VB contribute)
+            (ADVP (RB financially))
+            (PP (TO to)
+              (NP
+                (NP (DT the) (`` ``) (NN assessment))
+                (PP (IN of)
+                  (NP (NNS assessments) ('' '')))))
+            (, ,)
+            (S
+              (VP (VBG taking)
+                (PP (IN into)
+                  (NP (NN account)))
+                (NP
+                  (NP (DT the) (NN workplan)
+                    (CC and)
+                    (NN budget))
+                  (VP (VBN approved)
+                    (PP (IN by)
+                      (NP (DT the) (NNP Ad) (NNP Hoc) (NNP Steering) (NNP Group)))
+                    (, ,)
+                    (SBAR (IN in) (NN order)
+                      (S
+                        (VP (TO to)
+                          (VP (VB complete)
+                            (NP
+                              (NP (DT the) (`` ``) (NN assessment))
+                              (PP (IN of)
+                                (NP (NNS assessments))))
+                            ('' '')
+                            (PP (IN within)
+                              (NP (DT the) (VBN specified) (NN period)))))))))))))))
+    (: ;)))
+
+(ROOT
+  (NP
+    (NP (JJ Open-ended) (JJ informal) (NN consultative) (NN process))
+    (PP (IN on)
+      (NP
+        (NP (NNS oceans))
+        (CC and)
+        (NP (DT the) (NN law))))
+    (PP (IN of)
+      (NP (DT the) (NN sea)))))
+
+(ROOT
+  (S
+    (SBAR
+      (S
+        (NP (CD 134) (. .))
+        (VP (VBZ Recognizes)
+          (NP
+            (NP
+              (NP (DT the) (NN abundance)
+                (CC and)
+                (NN diversity))
+              (PP (IN of)
+                (NP (JJ marine) (JJ genetic) (NNS resources))))
+            (CC and)
+            (NP
+              (NP (PRP$ their) (NN value))
+              (PP (IN in)
+                (NP
+                  (NP (NNS terms))
+                  (PP (IN of)
+                    (NP (NNS benefits) (, ,) (NNS goods)
+                      (CC and)
+                      (NNS services))))))))))
+    (NP (PRP they))
+    (VP (MD can)
+      (VP (VB provide)))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (CD 135) (. .))
+    (VP
+      (ADVP (RB Also))
+      (VBZ recognizes)
+      (NP
+        (NP (DT the) (NN importance))
+        (PP (IN of)
+          (NP (NN research))))
+      (PP (IN on)
+        (NP
+          (NP (JJ marine) (JJ genetic) (NNS resources))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NN purpose))
+              (PP (IN of)
+                (S
+                  (VP (VBG enhancing)
+                    (NP
+                      (NP (DT the) (JJ scientific) (NN understanding))
+                      (, ,)
+                      (NP (JJ potential) (NN use)
+                        (CC and)
+                        (NN application))
+                      (, ,)
+                      (CC and)
+                      (NP
+                        (NP (VBN enhanced) (NN management))
+                        (PP (IN of)
+                          (NP (JJ marine) (NNS ecosystems)))))))))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (CD 141) (. .))
+    (VP (VBZ Recalls)
+      (NP (PRP$ its) (NN decision)
+        (S
+          (VP (TO to)
+            (VP (VB focus)
+              (NP (PRP$ its) (NNS discussions))
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (NN topic) (`` ``) (NN Maritime) (NN security)
+                    (CC and)
+                    (NN safety) ('' ''))
+                  (PP (IN at)
+                    (NP
+                      (NP (DT the) (JJ ninth) (NN meeting))
+                      (PP (IN of)
+                        (NP (DT the) (NNP Consultative) (NNP Process))))))))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (NNP 142) (. .) (NNPS Encourages) (NNP States))
+    (VP (TO to)
+      (VP (VB work)
+        (ADVP (RB closely))
+        (PP (IN with)
+          (CC and)
+          (IN through)
+          (NP (JJ international) (NNS organizations)))
+        (, ,)
+        (NP
+          (NP (NNS funds)
+            (CC and)
+            (NNS programs))
+          (, ,)
+          (CONJP (RB as) (RB well) (IN as))
+          (NP
+            (NP (DT the) (VBN specialized) (NNS agencies))
+            (PP (IN of)
+              (NP (DT the) (NNP United) (NNPS Nations) (NN system))))
+          (CC and)
+          (NP (JJ relevant) (JJ international) (NNS conventions)))
+        (, ,)
+        (SBAR
+          (SBAR
+            (S
+              (VP (TO to)
+                (VP (VB identify)
+                  (NP
+                    (NP (VBG emerging) (NNS areas))
+                    (PP (IN of)
+                      (NP (NN focus)))
+                    (PP (IN for)
+                      (NP (VBN improved) (NN coordination)
+                        (CC and)
+                        (NN cooperation))))))))
+          (CC and)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (NP (JJS best))
+              (VP (TO to)
+                (VP (VB address)
+                  (NP (DT these) (NNS issues)))))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (CD 145) (. .))
+    (VP (VBZ Encourages)
+      (NP (JJ continued) (NNS updates))
+      (PP (TO to)
+        (NP (NNP Member) (NNPS States)))
+      (PP (IN by)
+        (NP
+          (NP (NNP UN-Oceans))
+          (PP (VBG regarding)
+            (NP (PRP$ its) (NNS priorities)
+              (CC and)
+              (NNS initiatives)))))
+      (, ,)
+      (PP (IN in)
+        (ADJP
+          (ADJP (JJ particular)
+            (PP (IN with)
+              (NP (NN respect))))
+          (PP (TO to)
+            (NP
+              (NP (DT the) (VBN proposed) (NN participation))
+              (PP (IN in)
+                (NP (NNP UN-Oceans))))))))
+    (: ;)))
+
+(ROOT
+  (S
+    (NP (CD 146) (. .))
+    (VP (VBZ Expresses)
+      (NP (PRP$ its) (NN appreciation))
+      (PP
+        (PP (TO to)
+          (NP
+            (NP
+              (NP (DT the) (NNP Secretary-General))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (JJ annual) (JJ comprehensive) (NN report))
+                  (PP (IN on)
+                    (NP (NNS oceans))))))
+            (CC and)
+            (NP
+              (NP (DT the) (NN law))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN sea))
+                  (, ,)
+                  (VP (VBN prepared)
+                    (PP (IN by)
+                      (NP (DT the) (NNP Division)))))))))
+        (, ,)
+        (CONJP (RB as) (RB well) (IN as))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (JJ other) (NNS activities))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN Division))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBP reflect)
+                      (NP
+                        (NP (DT the) (JJ high) (NN standard))
+                        (PP (IN of)
+                          (NP
+                            (NP (NN assistance))
+                            (VP (VBN provided)
+                              (PP (TO to)
+                                (NP (NNP Member) (NNPS States)))
+                              (PP (IN by)
+                                (NP (DT the) (NNP Division))))))))))))))))
+    (: ;)))
+
