@@ -8,17 +8,18 @@ import java.util.HashSet;
 
 public class VPrules {
 
+	public int stnsnum;
 	public String str;
 	public Sentence stns;
 	public String VP = "VP";
 	public String PP = "PP";
 	public HashSet <String> verbs; 
 	FileWriter flog;
-	BufferedWriter blog;
 	
-	VPrules(String string) throws IOException {
+	VPrules(int num, String string) throws IOException {
+		stnsnum = num;
 		str = string;
-		stns = new Sentence(str);
+		stns = new Sentence(stnsnum, str);
 		String elements[] = {"VP", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ"};
 		verbs = new HashSet<String>(Arrays.asList(elements));
 		//System.out.println("VPrules built. String: "+ str);
@@ -52,7 +53,6 @@ public class VPrules {
 	
 	public int exist(String label) {
 		int j = 1;
-		//int [] range;
 		while (true) {
 			if (stns.childrange(0, j) != null) {
 				if (stns.childlabel(0, j).equals(label))
@@ -75,14 +75,11 @@ public class VPrules {
 	}
 	
 	public void swap(int a, int b) throws IOException {
-		StringBuffer buf = new StringBuffer(str);
 		int [] range1 = stns.childrange(0, a);
 		int [] range2 = stns.childrange(0, b);
 		String substring1 = str.substring(range1[0],range1[1]+1);
 		String substring2 = str.substring(range2[0],range2[1]+1);
 		flog.write("Swap:\n" + str.substring(range1[0], range1[1]+1) + "\nAnd:\n" + str.substring(range2[0], range2[1]+1) + "\n\n");
-		buf.replace(range1[0], range1[1]+1, substring2);
-		buf.replace(range2[0], range2[1]+1, substring1);
 		//str = buf.toString();
 		str = str.substring(0, range1[0]) + substring2 + str.substring(range1[1], range2[0]) + substring1 + str.substring(range2[1]);
 		stns.setstns(str);

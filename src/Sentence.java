@@ -1,18 +1,22 @@
+import java.io.FileWriter;
 import java.io.IOException;
 
 
 public class Sentence {
 
+	public int number;
 	public String stns;
-	StringBuffer buf;
+	public StringBuffer buf;
 	public static String VP = "VP";
 	public static String NP = "NP";
 	//public static VPrules VPinst = new VPrules();
 	
 	
-	Sentence(String sentence) {
+	Sentence(int num, String sentence) throws IOException {
+		number = num;
 		stns = sentence;
 		buf = new StringBuffer(stns); 
+		
 	}
 	
 	public void setstns(String str) {
@@ -43,7 +47,7 @@ public class Sentence {
 				switch (label) {
 				case "VP":
 					//System.out.println("Here is a VP");
-					VPrules VPruleinst = new VPrules(stns.substring(i, right));
+					VPrules VPruleinst = new VPrules(number, stns.substring(i, right));
 					VPruleinst.VPrulesfunc();
 					substring = VPruleinst.str;
 					break;

@@ -22,6 +22,7 @@ public class Reorder {
 		FileReader fileReader = new FileReader(file1);
 		FileWriter fileWriter2 = new FileWriter(file2);	
 		FileWriter fileWriter3 = new FileWriter(file3);
+		fileWriter3.close();
 		BufferedReader bufferedReader1 = new BufferedReader(fileReader);
 		String nextLine;
 		int i = 1;
@@ -37,17 +38,18 @@ public class Reorder {
 			       break;
 			}
 			//sentence = sentence.replaceAll("\\s","");
+			fileWriter3 = new FileWriter(file3, true);
+			fileWriter3.write(i + ". \n");
+			fileWriter3.close();
 			System.out.println(i+"\n"+sentence);
-			i++;
-			Sentence stns = new Sentence(sentence);
+			Sentence stns = new Sentence(i, sentence);
 			stns.rules(0);
-			//System.out.println(i+"\n"+stns.stns);
-			
-			fileWriter2.write(denest(stns) + "\n");			
+			//System.out.println(i+"\n"+stns.stns);		
+			fileWriter2.write(denest(stns) + "\n");
+			i++;
 		}
 		fileReader.close();
-		fileWriter2.close();
-		fileWriter3.close();
+		fileWriter2.close();		
 	}
 	
 	public static String denest(Sentence stns) {
@@ -56,7 +58,7 @@ public class Reorder {
 		for (int i = 0; i < stns.stns.length(); i++) {			
 			if (stns.stns.charAt(i) == '(') {
 				if ((range = stns.word(i)) != null) {
-					System.out.println("add word from "+ range[0] + " to "+range[1]);
+					//System.out.println("add word from "+ range[0] + " to "+range[1]);
 					line += stns.stns.substring(range[0], range[1]);
 					line += " ";
 					//i = stns.match(i);

@@ -1,3 +1,4 @@
+1. 
 Swap:
 (VBZ Encourages)
 And:
@@ -8,6 +9,7 @@ Swap:
 And:
 (PP (IN within)                    (NP                      (NP (PRP$ their) (JJ respective) (NNS fields))                      (PP (IN of)                        (NP                          (NP (NN competence))                          (PP (IN for)                            (NP (NN assistance)))))))
 
+2. 
 Swap:
 (VBG relating)
 And:
@@ -18,6 +20,9 @@ Swap:
 And:
 (PP (IN in)                              (NP (NN response)))
 
+3. 
+4. 
+5. 
 Swap:
 (VBD Calls)
 And:
@@ -28,6 +33,8 @@ Swap:
 And:
 (PP (IN in)                      (NP (NN accordance)))
 
+6. 
+7. 
 Swap:
 (VB cooperate)
 And:
@@ -38,11 +45,13 @@ Swap:
 And:
 (PP                (PP (IN in)                  (NP                    (NP (DT the) (NN event))                    (PP (IN of)                      (NP                        (NP (NNS accidents))                        (PP (VBG involving)                          (NP                            (NP (NNS vessels))                            (PP (IN on)                              (NP (NN coral) (NNS reefs)))))))))                (CC and)                (PP (IN in)                  (S                    (VP (VBG promoting)                      (NP                        (NP (DT the) (NN development))                        (PP (IN of)                          (NP                            (NP                              (NP (JJ economic) (NN assessment) (NNS techniques))                              (PP (IN for)                                (NP (DT both) (NN restoration))))                            (CC and)                            (NP                              (NP (JJ non-use) (NNS values))                              (PP (IN of)                                (NP (NN coral) (NN reef) (NNS systems)))))))))))
 
+8. 
 Swap:
 (VBZ Emphasizes)
 And:
 (PP (TO to)        (NP          (NP            (ADJP (JJ mainstream) (JJ sustainable))            (JJ coral) (NN reef) (NN management))          (CC and)          (NP            (NP (VBN integrated) (JJ watershed) (NN management))            (PP              (PP (IN into)                (NP (JJ national) (NN development) (NNS strategies)))              (, ,)              (CONJP (RB as) (RB well) (IN as))              (PP (IN into)                (NP                  (NP                    (NP (DT the) (NNS activities))                    (PP (IN of)                      (NP (JJ relevant) (NNP United) (NNPS Nations) (NNS agencies))))                  (CC and)                  (NP                    (NP (NNS programs))                    (, ,)                    (NP (JJ international) (JJ financial) (NNS institutions))                    (CC and)                    (NP (DT the) (NN donor) (NN community)))))))))
 
+9. 
 Swap:
 (VBZ Notes)
 And:
@@ -53,11 +62,14 @@ Swap:
 And:
 (PP (IN in)          (NP (DT the) (NN initiative)))
 
+10. 
+11. 
 Swap:
 (VBN established)
 And:
 (PP (IN by)                (NP (NN resolution) (CD 60\/30)))
 
+12. 
 Swap:
 (VBZ Welcomes)
 And:
@@ -68,6 +80,7 @@ Swap:
 And:
 (PP (TO to)              (NP (DT the)                (NX (NNP Ad) (NNP Hoc))))
 
+13. 
 Swap:
 (VB contribute)
 And:
@@ -88,26 +101,33 @@ Swap:
 And:
 (PP (IN within)                              (NP (DT the) (VBN specified) (NN period)))
 
+14. 
+15. 
+16. 
 Swap:
 (VBZ recognizes)
 And:
 (PP (IN on)        (NP          (NP (JJ marine) (JJ genetic) (NNS resources))          (PP (IN for)            (NP              (NP (DT the) (NN purpose))              (PP (IN of)                (S                  (VP (VBG enhancing)                    (NP                      (NP (DT the) (JJ scientific) (NN understanding))                      (, ,)                      (NP (JJ potential) (NN use)                        (CC and)                        (NN application))                      (, ,)                      (CC and)                      (NP                        (NP (VBN enhanced) (NN management))                        (PP (IN of)                          (NP (JJ marine) (NNS ecosystems))))))))))))
 
+17. 
 Swap:
 (VB focus)
 And:
 (PP (IN on)                (NP                  (NP (DT the) (NN topic) (`` ``) (NN Maritime) (NN security)                    (CC and)                    (NN safety) ('' ''))                  (PP (IN at)                    (NP                      (NP (DT the) (JJ ninth) (NN meeting))                      (PP (IN of)                        (NP (DT the) (NNP Consultative) (NNP Process)))))))
 
+18. 
 Swap:
 (VB work)
 And:
 (PP (IN with)          (CC and)          (IN through)          (NP (JJ international) (NNS organizations)))
 
+19. 
 Swap:
 (VBZ Encourages)
 And:
 (PP (TO to)        (NP (NNP Member) (NNPS States)))
 
+20. 
 Swap:
 (VBZ Expresses)
 And:
