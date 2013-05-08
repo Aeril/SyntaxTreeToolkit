@@ -52,6 +52,10 @@ public class Sentence {
 					VPruleinst.VPrulesfunc();
 					substring = VPruleinst.stns.stns;
 					break;
+				case "NP":
+					NPrules NPruleinst = new NPrules(number, stns.substring(i, right));
+					NPruleinst.NPrulesfunc();
+					substring = NPruleinst.stns.stns;
 				default:
 					;
 				}		
@@ -169,6 +173,7 @@ public class Sentence {
 	public boolean isElement(int left) {
 		if (stns.charAt(left) != '(') {
 			System.out.println("Wrong reference in Sentence.isElement()\n");
+			//System.out.println(stns);
 			System.exit(0);
 		}
 		int right = match(left);
@@ -203,6 +208,11 @@ public class Sentence {
 	}
 	
 	public void swap(int a, int b) throws IOException {
+		if (a < 0 || b < 0 ) {
+			System.out.println("Wrong reference in Sentence.swap()\n");
+			//System.out.println(stns);
+			System.exit(0);
+		}
 		int [] range1 = childrange(0, a);
 		int [] range2 = childrange(0, b);
 		String substring1 = stns.substring(range1[0],range1[1]+1);
@@ -222,6 +232,20 @@ public class Sentence {
 			}
 			else
 				return -1;
+			++j;
+		}
+	}
+	
+	public int last(String label) {
+		int j = 1;
+		int i = -1;
+		while (true) {
+			if (childrange(0, j) != null) {
+				if (childlabel(0, j).equals(label))
+					i = j;
+			}
+			else
+				return i;
 			++j;
 		}
 	}

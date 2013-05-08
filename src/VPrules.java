@@ -16,11 +16,15 @@ public class VPrules {
 		stns = new Sentence(stnsnum, string);
 		String elements[] = {"VP", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ"};
 		verbs = new HashSet<String>(Arrays.asList(elements));
-		//System.out.println("VPrules built. String: "+ str);
+		//System.out.println("VPrules built. String: "+ string);
 	}
 	
 	
 	public void VPrulesfunc() throws IOException {
+		/*if (stns.last(VP) < 0) {
+			System.out.println("Wrong reference in VPrules.VPrulesfunc()\n");
+			System.exit(0);
+		}*/
 		int VPchild = existvb();
 		int PPchild = stns.exist(PP);
 		if (VPchild > 0 && PPchild > VPchild ) {

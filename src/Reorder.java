@@ -38,7 +38,7 @@ public class Reorder {
 			fileWriter3 = new FileWriter(file3, true);
 			fileWriter3.write(i + ". \n");
 			fileWriter3.close();
-			System.out.println(i+"\n"+sentence);
+			//System.out.println(i+"\n"+sentence);
 			Sentence stns = new Sentence(i, sentence);
 			stns.rules(0);
 			//System.out.println(i+"\n"+stns.stns);		
