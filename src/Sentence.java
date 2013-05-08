@@ -213,4 +213,16 @@ public class Sentence {
 		stns = stns.substring(0, range1[0]) + substring2 + stns.substring(range1[1], range2[0]) + substring1 + stns.substring(range2[1]);		
 	}
 	
+	public int exist(String label) {
+		int j = 1;
+		while (true) {
+			if (childrange(0, j) != null) {
+				if (childlabel(0, j).equals(label))
+					return j;
+			}
+			else
+				return -1;
+			++j;
+		}
+	}
 }

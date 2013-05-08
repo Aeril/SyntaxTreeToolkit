@@ -3,15 +3,15 @@ import java.util.Arrays;
 import java.util.HashSet;
 
 
-public class VPrules {
+public class NPrules {
 
 	public int stnsnum;
 	public Sentence stns;
-	public String VP = "VP";
+	public String NP = "VP";
 	public String PP = "PP";
 	public HashSet <String> verbs;
 	
-	VPrules(int num, String string) throws IOException {
+	NPrules(int num, String string) throws IOException {
 		stnsnum = num;
 		stns = new Sentence(stnsnum, string);
 		String elements[] = {"VP", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ"};
