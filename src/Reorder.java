@@ -13,8 +13,8 @@ public class Reorder {
 	
 	
 	public static void main(String[] args) throws IOException {
-		File file1 = new File("tree.dev.en");
-		File file2 = new File("reordered.dev.en");
+		File file1 = new File("tree.train.en");
+		File file2 = new File("reordered.train.en");
 		File file3 = new File("change.log");
 		FileReader fileReader = new FileReader(file1);
 		FileWriter fileWriter2 = new FileWriter(file2);	
@@ -64,6 +64,8 @@ public class Reorder {
 			}
 		}
 		line = line.replace("\\", "");
+		line = line.replaceAll("-LRB- ", "(");
+		line = line.replaceAll("-RRB-", ")");
 		line = line.replaceAll("\\s+(?=\\p{Punct})", "");
 		return line.substring(0, line.length() - 1);
 		
